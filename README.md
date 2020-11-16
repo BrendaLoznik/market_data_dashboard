@@ -7,3 +7,5 @@ I am responsible for making market data available to the marketing and sales tea
   - Anonymized dynamic market data dashboard
   - Built in Excel 365 using formulas and the Developer tab
   - Dynamic dashboard without VBA, Power Excel or Power BI
+
+![Dashboard](dashboard.png)
